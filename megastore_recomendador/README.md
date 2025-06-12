@@ -95,10 +95,4 @@ cargo test
 - **Escalabilidade**: O sistema pode ser facilmente expandido para milhões de produtos, pois as operações principais são eficientes.
 - **Limitações**: Atualmente, a busca é apenas por nome exato. Técnicas de pré-processamento de texto e cache podem ser implementadas para melhorar ainda mais.
 
-## 11. Contribuições
-
-Contribuições são bem-vindas! Abra uma issue ou pull request para sugerir melhorias, correções ou novas funcionalidades.
-
----
-
 **Desenvolvido como estudo de caso para a disciplina de Estruturas de Dados.**
